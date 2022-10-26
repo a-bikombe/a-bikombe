@@ -1,16 +1,22 @@
 # Welcome to my corner of the internet!
 
-<!--
-**a-bikombe/a-bikombe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Arianna Bikombe, my pronouns are she/her/hers, and I'm a Computer Information Systems Major in my junior year at UNH Manchester.
 
-Here are some ideas to get you started:
+![brown divider](https://preview.redd.it/ypjkwzv6b0k51.png?width=960&crop=smart&auto=webp&s=a29922d4bb5847e20c86e4d5d86b4b1b252c80fb)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As of October 2022:
+
+| I'm proficient in: | I'm currently learning: | I'm going to learn: |
+|--------------------|-------------------------|---------------------|
+|        HTML        |         Python          |        Ruby         |
+|        CSS         |       TypeScript        |         Go          |
+|     JavaScript     |                         |        Rust         |
+|        PHP         |                         |       Kotlin        |
+|       Java         |                         |       Swift         |
+|        C++         |                         |                     |
+|        SQL         |                         |                     |
+
+
+![brown divider](https://preview.redd.it/ypjkwzv6b0k51.png?width=960&crop=smart&auto=webp&s=a29922d4bb5847e20c86e4d5d86b4b1b252c80fb)
+
+My current main project is my personal website, [aribikombe.com](https://aribikombe.com/). It's my most long-project as of now, since I've been working on it since 2017. It's still under construction, but feel free to check out what I have so far!
