@@ -15,5 +15,7 @@ As of October 2022:
 |     JavaScript     |                         |        Rust         |
 |        PHP         |                         |       Kotlin        |
 |       Java         |                         |       Swift         |
-|        C++         |                         |                     |
-|        SQL         |                         |                     |
+|        C++         |                         |       React         |
+|        SQL         |                         |    Ruby On Rails    |
+|                    |                         |       Angular       |
+|                    |                         |       Prisma        |
