@@ -12,10 +12,9 @@ As of October 2022:
 |--------------------|-------------------------|---------------------|
 |        HTML        |         Python          |        Ruby         |
 |        CSS         |       TypeScript        |         Go          |
-|     JavaScript     |                         |        Rust         |
+|     JavaScript     |         Angular         |        Rust         |
 |        PHP         |                         |       Kotlin        |
 |       Java         |                         |       Swift         |
 |        C++         |                         |       React         |
 |        SQL         |                         |    Ruby On Rails    |
-|                    |                         |       Angular       |
 |                    |                         |       Prisma        |
