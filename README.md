@@ -10,10 +10,9 @@ As of January 2024:
 
 | I'm proficient in: | I'm currently learning: | I'm going to learn: |
 |--------------------|-------------------------|---------------------|
-|        HTML        |       TypeScript        |         C++         |
-|        CSS         |        Angular          |        Ruby         |
-|     JavaScript     |         React           |         Go          |
-|        PHP         |                         |       Prisma        |
+|        HTML        |       TypeScript        |        React        |
+|        CSS         |        Angular          |                     |
+|     JavaScript     |                         |                     |
+|        PHP         |                         |                     |
 |       Python       |                         |                     |
 |        Java        |                         |                     |
-|        SQL         |                         |                     |
