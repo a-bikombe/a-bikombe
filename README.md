@@ -6,7 +6,7 @@ My current main project is my personal website, Riri's Palace. It's my most long
 
 ![brown divider](https://preview.redd.it/ypjkwzv6b0k51.png?width=960&crop=smart&auto=webp&s=a29922d4bb5847e20c86e4d5d86b4b1b252c80fb)
 
-As of January 2024:
+As of June 2024:
 
 | I'm proficient in: | I'm currently learning: | I'm going to learn: |
 |--------------------|-------------------------|---------------------|
