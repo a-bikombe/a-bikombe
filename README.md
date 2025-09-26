@@ -5,12 +5,19 @@ My current main project is my personal website, Riri's Cozy Nook.
 
 ![brown divider](https://preview.redd.it/ypjkwzv6b0k51.png?width=960&crop=smart&auto=webp&s=a29922d4bb5847e20c86e4d5d86b4b1b252c80fb)
 
-As of August 2025:
+As of September 2025:
 
-| I'm proficient in: | I'm currently learning: | I'm going to learn: |
-|--------------------|-------------------------|---------------------|
-|        HTML        |          Java           |                     |
-|        CSS         |                         |                     |
-|     JavaScript     |                         |                     |
-|       Python       |                         |                     |
-|       Angular      |                         |                     |
+| I'm proficient in: | I'm learning: | I'm going to learn: |
+|--------------------|---------------|---------------------|
+|        HTML        |     Java      |        React        |
+|        CSS         |               |        Swift        |
+|      JS / TS       |               |         Go          |
+|       Python       |               |         Lua         |
+|       Angular      |               |        Kotlin       |
+|        SQL         |               |        Ruby         |
+
+
+
+
+
+
